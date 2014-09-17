@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(../img/20140831_105903.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+@media (max-width: 1077px) {
+    body {
+        background-attachment: fixed;
+    }
+}
+
+iframe {
+    display: block;
+    margin-top: 40px;
+}
+

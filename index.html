@@ -1,1 +1,104 @@
-Hello World!
+<!doctype html>
+<html lang="">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Steve Perry</title>
+    <meta name="description" content="Steve Perry Resume">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/main.css">
+    <script src="js/jquery-1.11.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-4 col-md-4 col-sm-5">
+            <div class="page-header">
+                <h1 class="text-muted">Steve Perry <br /><small class="text-success">Lafayette, CO</small></h1>
+            </div>
+            <h2 class="text-muted">A few of my projects:</h2>
+            <div class="panel-group" id="accordion">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+                                List Rank
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapseOne" class="panel-collapse collapse in">
+                        <div class="panel-body">
+                            <p><a href="https://github.com/steveperrito/list_rank">GitHub</a> | <a href="http://steveperrito.github.io/list_rank/">Demo</a></p>
+                            <p>A simple to-do/ranking app that both displays and stores data. Although extremely simple, the app shows a core understanding of <a href="http://en.wikipedia.org/wiki/Create,_read,_update_and_delete">C.R.U.D.</a></p>
+                            <p>If you're feeling up to it, visit the <a href="http://steveperrito.github.io/list_rank/" >demo page</a>, open your browser's dev tools, and watch the JSON object change as you create, read, update and delete entries.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                                Email Formatting
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapseTwo" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            <p><a href="https://github.com/steveperrito/emailtool">GitHub</a> | <a href="http://steveperrito.github.io/emailtool/">Demo</a></p>
+                            <p>My email formatting repo is a tool I created to save time. As owner of <a href="http://www.OptAllure.com">OptAllure.com</a> I work with email marketers who frequently ask me to send indentically formatted emails through multiple email marketing apps.</p>
+                            <p>This allows me to quickly generate html code I can simply copy and paste in any application I'm requested to use.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+                                Weather App
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapseThree" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            <p><a href="https://github.com/steveperrito/weather_app">GitHub</a> | <a href="http://steveperrito.github.io/weather_app/">Demo</a></p>
+                            <p>Calculations, CSS Animations, and the ability to read API documentation. This one was fun.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
+                                YouTube Channel Pull
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapseFour" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            <p><a href="https://github.com/steveperrito/YouTube_ChannelPull">GitHub</a> | <a href="http://steveperrito.github.io/YouTube_ChannelPull/">Demo</a></p>
+                            <p>A very simple solution for one of my clients. He was sick of emedding his YouTube vidoes every time he made a new one.</p>
+                            <p>This short bit of code dynamically embeds the latest video on his channel. All he has to do is upload content.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="embedded" class="col-lg-4 col-md-5 col-sm-6 col-sm-offset-1 col-md-offset-3 col-lg-offset-4">
+            <div class="github-card" data-github="steveperrito" data-width="364" data-height="140"></div>
+            <script src="http://lab.lepture.com/github-cards/widget.js"></script>
+            <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+            <script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/steveperry33" data-format="inline" data-related="false"></script>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(function(){
+        $('a').attr('target','blank');
+    })
+</script>
+</body>
+</html>
