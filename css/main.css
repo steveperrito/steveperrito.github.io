@@ -6,7 +6,7 @@ body {
     background-size:cover;
 }
 
-@media (max-width: 1077px) {
+@media (max-width: 1172px) {
     body {
         background-attachment: fixed;
     }
@@ -17,3 +17,6 @@ iframe {
     margin-top: 40px;
 }
 
+.glyphicon {
+    color: #777;
+}
