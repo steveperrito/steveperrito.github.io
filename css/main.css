@@ -1,22 +1,86 @@
+
+
+
 body {
     margin: 0;
     padding: 0;
-    background: url(../img/20140831_105903.jpg);
-    background-repeat:no-repeat;
-    background-size:cover;
+    /*background: url(../img/20140831_105903.jpg);*/
+    /*background-repeat:no-repeat;*/
+    /*background-size:cover;*/
 }
 
-@media (max-width: 1172px) {
-    body {
-        background-attachment: fixed;
-    }
-}
+/*@media (max-width: 1172px) {*/
+    /*body {*/
+        /*background-attachment: fixed;*/
+    /*}*/
+/*}*/
 
-iframe {
+/*iframe {
     display: block;
     margin-top: 40px;
-}
+}*/
 
 .glyphicon {
     color: #777;
+}
+
+.header-row {
+    padding: 40px 0 40px 0;
+    /*IE10 Consumer Preview */
+    background-image: -ms-radial-gradient(center, circle farthest-corner, #FDFDFD 0%, #D8D8D8 100%);
+
+    /* Mozilla Firefox */
+    background-image: -moz-radial-gradient(center, circle farthest-corner, #FDFDFD 0%, #D8D8D8 100%);
+
+    /* Opera */
+    background-image: -o-radial-gradient(center, circle farthest-corner, #FDFDFD 0%, #D8D8D8 100%);
+
+    /* Webkit (Safari/Chrome 10) */
+    background-image: -webkit-gradient(radial, center center, 0, center center, 497, color-stop(0, #FDFDFD), color-stop(1, #D8D8D8));
+
+    /* Webkit (Chrome 11+) */
+    background-image: -webkit-radial-gradient(center, circle farthest-corner, #FDFDFD 0%, #D8D8D8 100%);
+
+    /* W3C Markup, IE10 Release Preview */
+    background-image: radial-gradient(circle farthest-corner at center, #FDFDFD 0%, #D8D8D8 100%);
+}
+
+.banner-margin {
+    margin-top: 100px;
+    opacity: .5;
+}
+
+.banner-margin:hover {
+    opacity: 1;
+    cursor: pointer;
+    transition: opacity .5s;
+}
+
+.hr-line {
+    margin-top: 10px;
+    border-bottom: 1px solid #B2B2B2;
+}
+
+.tab-row {
+    margin-top: 40px;
+    min-height: 800px;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.panel {
+    width: 350px;
+    float: left;
+    margin: 20px;
+}
+
+.panel-company {
+    width: 500px;
+}
+
+.spread-out {
+    display: inline-block;
+    margin-right: 71px;
 }
