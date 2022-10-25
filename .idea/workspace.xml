@@ -1,62 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="902fe21f-8e8d-4ee6-b177-d53839fd4725" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/accordion.js" afterPath="$PROJECT_DIR$/js/accordion.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/archive/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/archive/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/archive/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/archive/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/archive/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/archive/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/20140831_105903.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/20140831_105903.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/FB-f-Logo__blue_50.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/FB-f-Logo__blue_50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/GitHub-Mark-120px-plus.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/GitHub-Mark-120px-plus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/GitHub-Mark.eps" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/GitHub-Mark.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/GitHub-Mark.svg" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/GitHub-Mark.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/GitHub-Mark.zip" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/GitHub-Mark.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/GitHub-Mark/PNG/GitHub-Mark-120px-plus.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/GitHub-Mark/PNG/GitHub-Mark-120px-plus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/GitHub-Mark/PNG/GitHub-Mark-32px.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/GitHub-Mark/PNG/GitHub-Mark-32px.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/GitHub-Mark/PNG/GitHub-Mark-64px.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/GitHub-Mark/PNG/GitHub-Mark-64px.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/GitHub-Mark/PNG/GitHub-Mark-Light-120px-plus.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/GitHub-Mark/PNG/GitHub-Mark-Light-120px-plus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/GitHub-Mark/PNG/GitHub-Mark-Light-32px.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/GitHub-Mark/PNG/GitHub-Mark-Light-32px.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/GitHub-Mark/Vector/GitHub-Mark.ai" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/GitHub-Mark/Vector/GitHub-Mark.ai" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/GitHub-Mark/Vector/GitHub-Mark.eps" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/GitHub-Mark/Vector/GitHub-Mark.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/LinkedIn-InBug-2C.eps" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/LinkedIn-InBug-2C.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/LinkedIn-InBug-2C.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/LinkedIn-InBug-2C.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/LinkedIn-InBug-2C.svg" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/LinkedIn-InBug-2C.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Twitter_logo_blue.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/Twitter_logo_blue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/faceBook.zip" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/faceBook.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/headShot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/headShot.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/Usage-Online-brand-fLogo.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/Usage-Online-brand-fLogo.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/ai/FB-fLogo-online-broadcast.ai" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/ai/FB-fLogo-online-broadcast.ai" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/eps/FB-fLogo-online-broadcast.eps" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/eps/FB-fLogo-online-broadcast.eps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_100.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_1024.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_1024.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_114.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_114.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_144.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_29.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_29.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_50.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_512.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_57.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_57.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_58.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_58.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_72.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_100.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_1024.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_1024.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_114.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_114.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_144.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_29.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_29.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_50.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_512.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_57.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_57.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_58.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_58.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_72.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/psd/FB-fLogo-online.psd" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/psd/FB-fLogo-online.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/archive/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/accordion.js" beforeDir="false" afterPath="$PROJECT_DIR$/archive/js/accordion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/archive/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/isotope.pkgd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/archive/js/isotope.pkgd.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-1.11.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/archive/js/jquery-1.11.1.min.js" afterDir="false" />
     </list>
-    <ignored path="steveperrito.github.io.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="ComposerSettings">
+    <execution />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
-  </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="FavoritesManager">
-    <favorites_list name="steveperrito.github.io" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="233" column="6" selection-start="13888" selection-end="13888" vertical-scroll-proportion="0.75274724" vertical-offset="3084" max-vertical-offset="3630">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="accordion.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/accordion.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="26" selection-start="1145" selection-end="1145" vertical-scroll-proportion="0.0" vertical-offset="109" max-vertical-offset="825">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="20" selection-start="1720" selection-end="1720" vertical-scroll-proportion="0.0" vertical-offset="782" max-vertical-offset="1365">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -76,21 +91,17 @@
       </list>
     </option>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1280" />
     <option name="height" value="701" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
+  <component name="ProjectId" id="2Gc1292mMDH8jBtpBhWTi4laLtE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
@@ -173,32 +184,41 @@
       </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="options.lastSelected" value="web-ide.project.structure" />
-    <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/steveperry/Projects/steveperrito.github.io/src/img",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/img" />
+      <recent name="$PROJECT_DIR$/src/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/archive" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
-      <method />
-    </configuration>
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
-    <list size="0" />
+    <configuration default="true" type="JavascriptDebugType" singleton="true">
+      <method v="2" />
+    </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -206,7 +226,10 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="902fe21f-8e8d-4ee6-b177-d53839fd4725" name="Default" comment="" />
       <created>1404873245327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1404873245327</updated>
+      <workItem from="1666672848702" duration="6646000" />
     </task>
     <servers />
   </component>
@@ -236,21 +259,24 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="myTodoPanelSettings">
-      <TodoPanelSettings />
-    </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -381,4 +407,3 @@
     </entry>
   </component>
 </project>
-

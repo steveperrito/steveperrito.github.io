@@ -1,0 +1,142 @@
+{
+  "basics": {
+    "name": "Steve Perry",
+    "label": "Full Stack Web Developer",
+    "picture": "./img/steveheadshot2022001_sm.jpeg",
+    "email": "steveperrito@gmail.com",
+    "phone": "(720) 988-6201",
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/steveperry33",
+    "github": "https://github.com/steveperrito",
+    "summary": "Web Development is a creative outlet for me. I enjoy finding my way to the solution almost as much as I do the solution itself. I'm a bit of a generalist, but I'm most comfortable implementing Front End UIs. My backend experience includes PHP (Laravel, Custom/Legacy) & Node (Sails.js, Serverless Functions)",
+    "location": {
+      "address": "578 Beauprez Ave.",
+      "postalCode": "CO 80026",
+      "city": "Lafayette",
+      "countryCode": "US",
+      "region": "Colorado"
+    }
+  },
+  "work": [
+    {
+      "company": "SeedBin, LLC",
+      "position": "Web Developer",
+      "website": "https://SeedBin.com",
+      "startDate": "2016-10-03",
+      "endDate": null,
+      "summary": "Work with Django developers or the QuickBase API to build UIs with either React or jQuery that encapsulate business processes that are not handled gracefully by enterprise ERP systems.",
+      "highlights": [
+        "Implement Auth0 as a means of authentication to a widely used (thousands of active users) React App",
+        "Migrate legacy class based React App to functional components using hooks",
+        "Create & maintain private NPM package for shared UI components",
+        "Introduced Git & GitHub as a means of version control to the team (2016)",
+        "Created boilerplate git repos for frontend solutions that employ Webpack, Gulp, AWS CLI, Angular CLI",
+        "Created new UIs that more quickly and intuitively handle business processes like Inventory Maintenance and Order Fulfillment"
+      ]
+    },
+    {
+      "company": "OptAllure",
+      "position": "Owner",
+      "website": "https://steveperrito.github.io",
+      "startDate": "2012-10-01",
+      "endDate": null,
+      "summary": "Develop custom solutions using RESTful APIs, PHP, HTML, CSS, and JavaScript.",
+      "highlights": [
+        "Created backend and frontend code bases that could be deployed from central location (using rsync) to 15 different servers/websites, while implementing site specific themes/variables and bringing order to what was previously disparate and ineffective forms of content management.",
+        "Used previously unused data to target current clients for upgrades.",
+        "Built out reporting tools that track sales, alert admin, and represent data visually.",
+        "Countless front-end development tweaks to increase conversion across the board"
+      ]
+    },
+    {
+      "company": "RackFX.com",
+      "position": "Full Stack Node.js Developer (Internship)",
+      "website": "https://RackFX.com",
+      "startDate": "2016-02-01",
+      "endDate": "2016-06-01",
+      "summary": "Work within the Sails.js framework to bring RackFX’s solution to users.",
+      "highlights": [
+        "Implement C.R.U.D. tasks using Sails’ Waterline ORM.",
+        "Use jQuery and Bootstrap3 for UI work.",
+        "Use Git and GitHub along with Waffle.io in an agile environment."
+      ]
+    },
+    {
+      "company": "DigitalGlobe",
+      "position": "PHP Developer (Internship)",
+      "website": "https://maxar.com",
+      "startDate": "2014-12-01",
+      "endDate": "2015-01-01",
+      "summary": "Work within the Fat-Free PHP framework to resolve issues",
+      "highlights": [
+        "Use jQuery, Bootstrap3, Mustache.js to display data on frontend.",
+        "Use Git and GitHub for version control."
+      ]
+    },
+    {
+      "company": "Eldorado Trading Company",
+      "position": "Bilingual Inside Sales Representative",
+      "website": "https://Eldorado.net",
+      "startDate": "2011-09-01",
+      "endDate": "2012-10-01",
+      "summary": "Instruct clients on how to leverage Eldorado’s web resources (Open API, StoreExtender.com, and Drop-Ship services)",
+      "highlights": [
+        "Growth of gross monthly sales from an initial base of 10k to over 100k in 7 months"
+      ]
+    },
+    {
+      "company": "ClickBank",
+      "position": "Inside Sales Representative",
+      "website": "https://ClickBank.com",
+      "startDate": "2010-05-01",
+      "endDate": "2011-09-01",
+      "summary": "Streamline client on-boarding with both technical and UI support.",
+      "highlights": [
+        "Managed Featured Marketplace product listings using Word Press.",
+        "Completed training on ADTECH Helios IQ advertisement server."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Boise State University",
+      "area": "International Business",
+      "studyType": "Bachelor",
+      "startDate": "2006-06-01",
+      "endDate": "2009-05-01",
+      "gpa": "3.5"
+    }
+  ],
+  "skills": [
+    "Javascript",
+    "React",
+    "Vue 2",
+    "jQuery",
+    "NPM",
+    "CSS",
+    "Bulma CSS",
+    "PHP",
+    "Node.js",
+    "Laravel",
+    "GitHub",
+    "HTML"
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Running",
+      "keywords": [
+        "Trails"
+      ]
+    }
+  ]
+}
