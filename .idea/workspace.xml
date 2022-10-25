@@ -5,62 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="902fe21f-8e8d-4ee6-b177-d53839fd4725" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/archive/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/archive/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/archive/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/archive/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/archive/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/archive/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/20140831_105903.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/20140831_105903.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/FB-f-Logo__blue_50.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/FB-f-Logo__blue_50.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/GitHub-Mark-120px-plus.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/GitHub-Mark-120px-plus.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/GitHub-Mark.eps" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/GitHub-Mark.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/GitHub-Mark.svg" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/GitHub-Mark.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/GitHub-Mark.zip" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/GitHub-Mark.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/GitHub-Mark/PNG/GitHub-Mark-120px-plus.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/GitHub-Mark/PNG/GitHub-Mark-120px-plus.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/GitHub-Mark/PNG/GitHub-Mark-32px.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/GitHub-Mark/PNG/GitHub-Mark-32px.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/GitHub-Mark/PNG/GitHub-Mark-64px.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/GitHub-Mark/PNG/GitHub-Mark-64px.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/GitHub-Mark/PNG/GitHub-Mark-Light-120px-plus.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/GitHub-Mark/PNG/GitHub-Mark-Light-120px-plus.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/GitHub-Mark/PNG/GitHub-Mark-Light-32px.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/GitHub-Mark/PNG/GitHub-Mark-Light-32px.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/GitHub-Mark/Vector/GitHub-Mark.ai" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/GitHub-Mark/Vector/GitHub-Mark.ai" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/GitHub-Mark/Vector/GitHub-Mark.eps" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/GitHub-Mark/Vector/GitHub-Mark.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/LinkedIn-InBug-2C.eps" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/LinkedIn-InBug-2C.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/LinkedIn-InBug-2C.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/LinkedIn-InBug-2C.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/LinkedIn-InBug-2C.svg" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/LinkedIn-InBug-2C.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Twitter_logo_blue.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/Twitter_logo_blue.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/faceBook.zip" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/faceBook.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/headShot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/headShot.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/Usage-Online-brand-fLogo.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/Usage-Online-brand-fLogo.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/ai/FB-fLogo-online-broadcast.ai" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/ai/FB-fLogo-online-broadcast.ai" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/eps/FB-fLogo-online-broadcast.eps" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/eps/FB-fLogo-online-broadcast.eps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_100.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_100.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_1024.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_1024.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_114.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_114.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_144.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_144.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_29.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_29.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_50.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_50.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_512.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_512.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_57.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_57.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_58.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_58.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_72.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_72.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_100.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_100.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_1024.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_1024.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_114.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_114.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_144.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_144.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_29.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_29.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_50.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_50.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_512.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_512.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_57.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_57.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_58.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_58.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_72.png" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/png/FB-f-Logo__white_72.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logos-and-badges_f-logo_online/psd/FB-fLogo-online.psd" beforeDir="false" afterPath="$PROJECT_DIR$/archive/img/logos-and-badges_f-logo_online/psd/FB-fLogo-online.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/archive/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/accordion.js" beforeDir="false" afterPath="$PROJECT_DIR$/archive/js/accordion.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/archive/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/isotope.pkgd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/archive/js/isotope.pkgd.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-1.11.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/archive/js/jquery-1.11.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +174,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1404873245327</updated>
-      <workItem from="1666672848702" duration="6646000" />
+      <workItem from="1666672848702" duration="6843000" />
     </task>
     <servers />
   </component>
