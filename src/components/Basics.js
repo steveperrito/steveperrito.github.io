@@ -2,7 +2,7 @@ import { BoxColumn } from './BoxColumn';
 import { IconListItem } from './IconListItem';
 import { faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons';
 import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
-import headShotSrc from '../img/steveheadshot2022001_sm.jpeg';
+import headShotSrc from '../img/PXL_20221001_173958017.jpg';
 
 export const Basics = ({basics = {}}) => {
   if (!basics || !basics.name || !basics.summary) return null;
